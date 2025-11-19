@@ -180,13 +180,14 @@ To contribute:
 
 **Slow I/O**:
 - Use `$SCRATCH` rather than home directories
+- **We have scratch directory, under maintenance, So you cannot use until further notice.**
 
 ---
 
 ## **13. Contact**
 Maintain the list of maintainers here:
-- Primary Maintainer: <Name>
-- Email: <contact@domain>
+- Primary Maintainer: Aatiz Ghimire
+- Email: hpc@tu.edu.np
 
 ---
 
